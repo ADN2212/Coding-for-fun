@@ -1,3 +1,7 @@
+"""
+Como lo dice el titulo, ordena una liked list creada de forma aleatoria usando el algoritmo de ordenamiento Quick Sort.
+"""
+
 from random import randint
 
 class Node:
